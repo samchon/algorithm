@@ -9,6 +9,11 @@
         "algorithm": "cpp",
         "xlocnum": "cpp",
         "xstddef": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "xlocale": "cpp",
+        "xutility": "cpp",
+        "utility": "cpp"
     }
 }
